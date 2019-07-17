@@ -4,3 +4,6 @@ EKF_using_ROS/catkin_ws/build/
 EKF_using_ROS/catkin_ws/devel/
 
 EKF_using_ROS/m.code-workspace
+
+EKF_using_ROS/catkin_ws/src/turtlebot_simulator/.git
+EKF_using_ROS/catkin_ws/src/turtlebot_simulator/.gitignore
