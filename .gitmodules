@@ -1,3 +1,6 @@
 [submodule "EKF_using_ROS/catkin_ws/src/turtlebot_simulator"]
 	path = EKF_using_ROS/catkin_ws/src/turtlebot_simulator
 	url = https://github.com/turtlebot/turtlebot_simulator
+[submodule "EKF_using_ROS/catkin_ws/src/robot_pose_ekf"]
+	path = EKF_using_ROS/catkin_ws/src/robot_pose_ekf
+	url = https://github.com/udacity/robot_pose_ekf
